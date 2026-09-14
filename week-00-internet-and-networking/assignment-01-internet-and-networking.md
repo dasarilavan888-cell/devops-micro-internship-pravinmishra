@@ -141,8 +141,64 @@ In **50–100 words**, explain in your own words:
 2. Which DNS record type should be used to connect the domain to the given IP, and why?
 
 ## Answer
+Log in
+Sign up for free
+You said:
 
-Add your answer here...
+Write a short explanation (100–150 words) that includes:
+
+Packet Switching
+IP Address
+TCP/IP
+HTTP/HTTPS
+
+ChatGPT said:
+Networking Concepts
+
+
+
+Packet switching is a method of sending data over a network by dividing it into small units called packets. Each packet can travel through different routes and is reassembled at the destination. An IP address is a unique numerical label assigned to a device on a network, allowing it to be identified and located. TCP/IP is a set of communication protocols that enables devices to exchange data over the internet. TCP ensures that data is delivered reliably and in the correct order, while IP handles addressing and routing. HTTP (Hypertext Transfer Protocol) is used to transfer web pages and other resources between web browsers and servers. HTTPS is the secure version of HTTP, using encryption to protect data exchanged between users and websites.
+
+
+
+Log in for more personalized help with writing, rewriting, and translation.
+
+
+Log in
+
+Sign up for free
+You said:
+
+In 50–100 words, explain in your own words:
+
+What is DNS (Domain Name System)?
+Which DNS record type should be used to connect the domain to the given IP, and why?
+Answer
+
+ChatGPT said:
+DNS Explanation
+
+
+DNS (Domain Name System) is like the internet’s phonebook. It converts easy-to-remember domain names, such as example.com, into IP addresses that computers use to find the correct server. To connect a domain to a given IPv4 address, an A record should be used because it directly maps a domain name to an IPv4 address. For example, if the given IP is 192.0.2.1, an A record can point example.com to that address. If the IP were IPv6, an AAAA record would be used instead.
+
+
+
+You said:
+
+In 50–100 words, explain in your own words:
+
+What is DNS (Domain Name System)?
+Which DNS record type should be used to connect the domain to the given IP, and why?
+
+ChatGPT said:
+DNS Explanation
+
+
+
+DNS (Domain Name System) is a system that translates human-readable domain names, such as example.com, into IP addresses that computers use to locate websites and online services. To connect a domain to a given IPv4 address, an A record should be used because it maps the domain name directly to that IPv4 address. For an IPv6 address, an AAAA record would be appropriate. Therefore, if the given IP is IPv4, the correct choice is an A record.
+
+
+
 
 ---
 
