@@ -138,45 +138,14 @@ epicreads.com
 In **50–100 words**, explain in your own words:
 
 1. What is DNS (Domain Name System)?
+2. Which DNS record type should be used to connect the domain to the given IP, and why?
+DNS (Domain Name System) is a system that translates human-readable domain names, such as example.com, into IP addresses that computers use to find websites and other internet services. It works like a phonebook for the internet, making websites easier to access. To connect a domain to a given IPv4 address, an A record should be used because it maps a domain name directly to an IPv4 address. If the given IP is IPv6, an AAAA record should be used instead.
    
 
 
 
-Log in for more personalized help with writing, rewriting, and translation.
 
 
-Log in
-
-Sign up for free
-You said:
-
-In 50–100 words, explain in your own words:
-
-What is DNS (Domain Name System)?
-Which DNS record type should be used to connect the domain to the given IP, and why?
-Answer
-
-ChatGPT said:
-DNS Explanation
-
-
-DNS (Domain Name System) is like the internet’s phonebook. It converts easy-to-remember domain names, such as example.com, into IP addresses that computers use to find the correct server. To connect a domain to a given IPv4 address, an A record should be used because it directly maps a domain name to an IPv4 address. For example, if the given IP is 192.0.2.1, an A record can point example.com to that address. If the IP were IPv6, an AAAA record would be used instead.
-
-
-
-You said:
-
-In 50–100 words, explain in your own words:
-
-What is DNS (Domain Name System)?
-Which DNS record type should be used to connect the domain to the given IP, and why?
-
-ChatGPT said:
-DNS Explanation
-
-
-
-DNS (Domain Name System) is a system that translates human-readable domain names, such as example.com, into IP addresses that computers use to locate websites and online services. To connect a domain to a given IPv4 address, an A record should be used because it maps the domain name directly to that IPv4 address. For an IPv6 address, an AAAA record would be appropriate. Therefore, if the given IP is IPv4, the correct choice is an A record.
 
 
 
