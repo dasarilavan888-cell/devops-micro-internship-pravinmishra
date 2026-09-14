@@ -138,26 +138,7 @@ epicreads.com
 In **50–100 words**, explain in your own words:
 
 1. What is DNS (Domain Name System)?
-2. Which DNS record type should be used to connect the domain to the given IP, and why?
-
-## Answer
-Log in
-Sign up for free
-You said:
-
-Write a short explanation (100–150 words) that includes:
-
-Packet Switching
-IP Address
-TCP/IP
-HTTP/HTTPS
-
-ChatGPT said:
-Networking Concepts
-
-
-
-Packet switching is a method of sending data over a network by dividing it into small units called packets. Each packet can travel through different routes and is reassembled at the destination. An IP address is a unique numerical label assigned to a device on a network, allowing it to be identified and located. TCP/IP is a set of communication protocols that enables devices to exchange data over the internet. TCP ensures that data is delivered reliably and in the correct order, while IP handles addressing and routing. HTTP (Hypertext Transfer Protocol) is used to transfer web pages and other resources between web browsers and servers. HTTPS is the secure version of HTTP, using encryption to protect data exchanged between users and websites.
+   
 
 
 
