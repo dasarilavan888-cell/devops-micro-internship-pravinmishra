@@ -305,7 +305,7 @@ I found understanding packet switching and two-tier and three-tier architecture 
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my understanding of DevOps tools and concepts. I will practice more with Git, GitHub, and command-line tools and try to build practical skills through hands-on exercises.
 
 ---
 
