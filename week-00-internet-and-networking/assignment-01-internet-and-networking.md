@@ -102,19 +102,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 ## Technologies Used
 
 ### Frontend
+HTML
+CSS
 
-* Add your answer here...
-* Add your answer here...
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+java
+Node.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MySQL
+PostgreSQL
 
 ---
 
