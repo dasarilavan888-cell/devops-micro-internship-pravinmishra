@@ -60,7 +60,12 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user opens the EpicReads online bookstore, the data travels through the internet using **packet switching**. The information is divided into small packets, which may travel through different routes and are reassembled at the destination. Every device or server has an **IP address**, which helps identify and locate it on the network.
+
+**TCP/IP** is a set of communication protocols used to transfer data over the internet. TCP ensures that packets are delivered reliably and in the correct order, while IP handles addressing and routing.
+
+When the user visits the EpicReads website, **HTTP/HTTPS** is used for communication between the browser and the web server. HTTPS is the secure version of HTTP because it encrypts the data exchanged between the user and the website.
+
 
 ---
 
