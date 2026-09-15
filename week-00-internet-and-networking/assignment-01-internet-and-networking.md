@@ -290,7 +290,10 @@ Tag: Pravin Mishra and Anjana Muthunayake
 
 ### What did you find easy?
 
-Add your answer here...
+You can write a simple student-style answer:
+
+> I found understanding networking basics, IP addresses, DNS, and the difference between HTTP and HTTPS easy. The real-life examples made the concepts easier to understand.
+
 
 ---
 
