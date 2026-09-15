@@ -59,7 +59,9 @@ Consistent effort produces better results than studying or working only when mot
 
 ### Evidence from my life
 
-Add your answer here...
+I tried studying technical topics regularly instead of studying only before exams.
+I noticed that regular practice helped me understand concepts faster and remember them better.
+This showed me that consistency improves my learning.
 
 ---
 
@@ -71,7 +73,9 @@ Practical experience helps me understand technical concepts better than only rea
 
 ### Evidence from my life
 
-Add your answer here...
+I practiced programming and technical concepts by writing examples and trying them myself.
+When I faced errors, fixing them helped me understand the concepts more clearly.
+I learned that hands-on practice makes learning more effective.
 
 ---
 
@@ -83,7 +87,9 @@ Breaking a difficult task into smaller steps makes it easier to complete.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried completing larger assignments by dividing them into smaller tasks.
+Instead of feeling overwhelmed, I could focus on one task at a time.
+I completed my work more confidently and efficiently.
 
 ---
 
