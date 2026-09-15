@@ -55,7 +55,7 @@ Write each truth in this format:
 
 ### Truth
 
-Practical experience helps me understand technical concepts better than only reading theory.
+Consistent effort produces better results than studying or working only when motivated.
 
 ### Evidence from my life
 
