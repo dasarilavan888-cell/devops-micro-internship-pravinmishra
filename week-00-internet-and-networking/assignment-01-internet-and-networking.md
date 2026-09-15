@@ -148,7 +148,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It converts an easy-to-remember domain name, such as **epicreads.com**, into the IP address of the server where the website is hosted. This allows users to access the bookstore using the domain name instead of remembering the IP address **52.172.142.222**.
+
+An **A record** should be used to connect **epicreads.com** to **52.172.142.222** because an A record maps a domain name to an **IPv4 address**. Therefore, the A record will direct users to the EpicReads server.
 
 ---
 
