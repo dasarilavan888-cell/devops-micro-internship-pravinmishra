@@ -299,7 +299,7 @@ You can write a simple student-style answer:
 
 ### What was difficult?
 
-Add your answer here...
+I found understanding packet switching and two-tier and three-tier architecture a little difficult at first. After studying the concepts with examples and diagrams, I was able to understand them better.
 
 ---
 
