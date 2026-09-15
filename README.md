@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |  ✅ Completed | ✅ Solved
-| https://lnkd.in/p/dCHWSK9Q | — |
+| https://lnkd.in/p/dCHWSK9Q | https://medium.com/@snigdhugoud/devops-micro-internship-week-0-internet-networking-7fcee6d1cd7f?postPublishedType=initial|
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
