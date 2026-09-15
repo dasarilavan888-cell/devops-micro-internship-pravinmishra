@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe a career is not only about earning a high salary or getting a prestigious job. It is about continuously learning, developing useful skills, enjoying what you do, and creating value. I think choosing growth and meaningful work over social pressure can lead to long-term success and satisfaction.
 
 ---
 
