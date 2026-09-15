@@ -79,7 +79,7 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a difficult task into smaller steps makes it easier to complete.
 
 ### Evidence from my life
 
