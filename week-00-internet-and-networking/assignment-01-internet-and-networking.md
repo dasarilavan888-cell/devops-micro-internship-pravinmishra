@@ -245,7 +245,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/dCHWSK9Q
 ```
 
 ---
@@ -254,7 +254,35 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+ DevOps Micro Internship — Week 0: Internet & Networking
+I’m excited to continue my DevOps learning journey by completing Week 0 of the DevOps Micro Internship. This week helped me understand the fundamentals of how applications communicate over the internet.
+💬 ChatGPT
+I learned how to use ChatGPT as a learning assistant to understand technical concepts in simple language. I explored the concept of networking protocols with real-life examples.
+🌐 Internet & Networking
+I learned about:
+• Packet Switching
+• IP Addresses
+• TCP/IP
+• HTTP and HTTPS
+I understood how data travels between users and a website hosted in another location.
+🏗️ App Architecture
+I explored Two-Tier and Three-Tier Architecture:
+• Frontend
+• Backend
+• Database
+I also learned about technologies such as HTML, CSS, Java, Node.js, MySQL, and PostgreSQL.
+🌍 DNS
+I learned how DNS converts human-readable domain names into IP addresses. I also understood that an A record is used to connect a domain name to an IPv4 address.
+💻 VS Code Setup
+I set up Visual Studio Code and practiced using its integrated terminal with basic commands.
+✨ Key Takeaway
+This week gave me a strong foundation in Internet, Networking, Application Architecture, DNS, and development tools. I’m looking forward to learning more and building practical DevOps skills.
+
+A big thank you to @Pravin Mishra(https://lnkd.in/dufn-DwA @Anjana Muthunayake(https://lnkd.in/d6Pc5Nk4 guiding learner through this amazing DevOps journey.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dR2yR5-x · Start your DevOps journey: https://lnkd.in/dghV859k
+Tag: Pravin Mishra and Anjana Muthunayake
+#DMIByPravinMishra #AgenticAI #DevOps #DevOpsJourney #Networking #DNS #CloudComputing #Learning
 
 ---
 
