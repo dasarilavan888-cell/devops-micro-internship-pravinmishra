@@ -55,7 +55,7 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Practical experience helps me understand technical concepts better than only reading theory.
 
 ### Evidence from my life
 
