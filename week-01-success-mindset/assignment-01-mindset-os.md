@@ -163,7 +163,7 @@ Add your answer here...
 
 ### Public Link
 
-Paste your link here:
+https://lnkd.in/p/dAWX7tMU
 
 `Add your URL here`
 
